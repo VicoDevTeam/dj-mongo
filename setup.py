@@ -9,7 +9,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 LONG_DESCRIPTION = """
-> This package is a fork of [djongo](https://pypi.org/project/djongo/), based on the Github version of 22 jan 2023.
+* This package is a fork of `djongo <https://pypi.org/project/djongo/>`_, based on the Github version of 22 jan 2023.
 
 Use Mongodb as a backend database for your django project, without changing a
 single django model!
