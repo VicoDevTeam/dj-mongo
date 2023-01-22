@@ -1,6 +1,6 @@
 # dj-mongo-backend
 
-[![GitHub](https://img.shields.io/github/license/VicoDevTeam/dj-mongo-backend?style=for-the-badge)](/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/VicoDevTeam/dj-mongo-backend?style=for-the-badge)](../blob/master/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/dj-mongo-backend?style=for-the-badge)](https://pypi.org/project/dj-mongo-backend/)
 
 > This project is a fork from [doableware/djongo](https://github.com/doableware/djongo)
